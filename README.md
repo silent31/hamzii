@@ -44,8 +44,6 @@ chmod 777 Hamzii
 
 ./Hamzii
 
-🖥️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-PAID-ff0033?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VERSION-13.1-111827?style=for-the-badge" />
@@ -67,8 +65,8 @@ chmod 777 Hamzii
 
 <p align="center">
   <img src="https://img.shields.io/badge/BASIC-7%20DAYS%20%7C%20%245-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STANDARD-10%20DAYS%20%7C%20%2410-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PREMIUM-30%20DAYS%20%7C%20%2415-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STANDARD-15%20DAYS%20%7C%20%2410-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PREMIUM-30%20DAYS%20%7C%20%2413-ef4444?style=for-the-badge" />
 </p>
 
 🧠 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
