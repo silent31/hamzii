@@ -1,47 +1,63 @@
-*ASSALAMUALAIKUM*
+🧬 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟
+�
+￼ ￼ ￼ 
 
- *PAID TOOL*
+�
+￼ 
 
-*UPDATE DN*
---------------------
- *FILE CLONING TOOL*
---------------------
-*VERSION 13.3*
---------------------
-*COMMANDS:*
---------------------
-pip install pycurl 
+🧾 𝗣𝗥𝗜𝗖𝗘 💸
+�
 
-pip install aiohttp 
+💎 Plan
+⏳ Days
+💰 Price
+🟢 Basic
+7 Days
+$5
+🔵 Standard
+15 Days
+$10
+�
 
-pkg install python-psutil
+⚡ 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 (𝗧𝗘𝗥𝗠𝗨𝗫)
+Bash
+# 🔥 FULL AUTO SETUP
 
-pip install httplib2 
+pkg update -y && pkg upgrade -y
 
-pip install websocket-client
+pkg install git python -y
 
-pip install httplib2 
+pip install pycurl aiohttp httplib2 websocket-client
+
+pkg install python-psutil -y
 
 unset LD_PRELOAD
 
 rm -rf hamzii
 
-git clone --depth=1
-https://github.com/silent31/hamzii
+git clone --depth=1 https://github.com/silent31/hamzii
 
 cd hamzii
 
-chmod 777 Hamzii
+chmod +x Hamzii
 
 ./Hamzii
----------------
-*Whatspp group*
----------------
-https://chat.whatsapp.com/DeVzVK58tsV0eolWV1QcVR?mode=hqrt1
-*ALL METHOD UPDATE*
 
-OWNER MUHAMMAD HAMZA 
+🧠 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
 
-WHATSPP CONTACT 
+✔ File-Based System 📂
+✔ Termux Optimized 📱
+🖥️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦
+📱 Android Device
+🧪 Termux Latest Version
+🐍 Python 3.13
+🌐 Stable Internet
+📞 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
+�
+￼ 
 
-+18192720340
+�
+📲 +1 819-272-0340 
+
+🧬 𝗡𝗢𝗧𝗘
+⚠️ This tool is for educational purposes only. Use responsibly.
