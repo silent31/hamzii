@@ -14,32 +14,6 @@
 
 🚀 METHODS   : ALL UPDATED
 
-🧾 𝗣𝗥𝗜𝗖𝗘 💸
-
-💎 Plan
-
-⏳ Days
-
-💰 Price
-
-🟢 Basic
-
-7 Days
-
-$5
-
-🔵 Standard
-
-15 Days
-
-$10
-
-🔴 Premium
-
-30 Days
-
-$13
-
 💻 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 (𝗧𝗘𝗥𝗠𝗨𝗫)
 
 Bash
@@ -71,8 +45,6 @@ chmod 777 Hamzii
 ./Hamzii
 
 🖥️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦
-
-📱 Android Device
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-PAID-ff0033?style=for-the-badge" />
