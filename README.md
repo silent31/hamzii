@@ -11,16 +11,28 @@
 *COMMANDS:*
 --------------------
 pip install pycurl 
+
 pip install aiohttp 
+
 pkg install python-psutil
+
 pip install httplib2 
+
 pip install websocket-client
+
 pip install httplib2 
+
 unset LD_PRELOAD
+
 rm -rf hamzii
-git clone --depth=1 https://github.com/silent31/hamzii
+
+git clone --depth=1
+https://github.com/silent31/hamzii
+
 cd hamzii
+
 chmod 777 Hamzii
+
 ./Hamzii
 ---------------
 *Whatspp group*
