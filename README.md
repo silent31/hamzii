@@ -39,3 +39,9 @@ chmod 777 Hamzii
 ---------------
 https://chat.whatsapp.com/DeVzVK58tsV0eolWV1QcVR?mode=hqrt1
 *ALL METHOD UPDATE*
+
+OWNER MUHAMMAD HAMZA 
+
+WHATSPP CONTACT 
+
++18192720340
