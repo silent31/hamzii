@@ -74,27 +74,30 @@ chmod 777 Hamzii
 
 📱 Android Device
 
-🧪 Termux (Latest Version)
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-PAID-ff0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VERSION-13.1-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.13-22c55e?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/TERMUX-REQUIRED-ef4444?style=for-the-badge&logo=android" />
+</p>
 
-🐍 Python 3.13
+<p align="center">
+  <a href="https://chat.whatsapp.com/DeVzVK58tsV0eolWV1QcVR?mode=hqrt1">
+    <img src="https://img.shields.io/badge/WHATSAPP-GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-🌐 Stable Internet Connection
+<p align="center">
+  <a href="https://wa.me/+18192720340">
+    <img src="https://img.shields.io/badge/CONTACT-OWNER-00FFAA?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  </a>
+</p>
 
-📢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣
-
-�
-￼ 
-
-�
-👥 Join for latest updates & methods 
-
-
-📞 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
-�
-￼ 
-
-�
-📲 +1 819-272-0340 
+<p align="center">
+  <img src="https://img.shields.io/badge/BASIC-7%20DAYS%20%7C%20%245-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STANDARD-10%20DAYS%20%7C%20%2410-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PREMIUM-30%20DAYS%20%7C%20%2415-ef4444?style=for-the-badge" />
+</p>
 
 🧠 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
 
