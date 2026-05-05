@@ -1,10 +1,12 @@
-🧬 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 𝗙𝗜𝗟𝗘 𝗖𝗟𝗢𝗡𝗜𝗡𝗚 𝗧𝗢𝗢𝗟
-�
-￼ ￼ ￼ 
 
-�
-￼ 
+🕌 𝗔𝗦𝗦𝗔𝗟𝗔𝗠𝗨𝗔𝗟𝗔𝗜𝗞𝗨𝗠
+💎 PAID TOOL UPDATE DN
+⚡ 𝗧𝗢𝗢𝗟 𝗜𝗡𝗙𝗢
 
+📂 TOOL NAME : FILE CLONING TOOL
+🔢 VERSION   : 13.3
+📢 STATUS    : UPDATED
+🚀 METHODS   : ALL UPDATED
 🧾 𝗣𝗥𝗜𝗖𝗘 💸
 �
 
@@ -15,21 +17,23 @@
 7 Days
 $5
 🔵 Standard
-15 Days
+10 Days
 $10
+🔴 Premium
+30 Days
+$20
 �
 
-⚡ 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 (𝗧𝗘𝗥𝗠𝗨𝗫)
+💻 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 (𝗧𝗘𝗥𝗠𝗨𝗫)
 Bash
-# 🔥 FULL AUTO SETUP
+# 🔥 INSTALL & RUN
 
-pkg update -y && pkg upgrade -y
-
-pkg install git python -y
-
-pip install pycurl aiohttp httplib2 websocket-client
-
-pkg install python-psutil -y
+pip install pycurl
+pip install aiohttp
+pkg install python-psutil
+pip install httplib2
+pip install websocket-client
+pip install httplib2
 
 unset LD_PRELOAD
 
@@ -39,19 +43,22 @@ git clone --depth=1 https://github.com/silent31/hamzii
 
 cd hamzii
 
-chmod +x Hamzii
+chmod 777 Hamzii
 
 ./Hamzii
 
-🧠 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
-
-✔ File-Based System 📂
-✔ Termux Optimized 📱
 🖥️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗥𝗘𝗤𝗨𝗜𝗥𝗘𝗠𝗘𝗡𝗧𝗦
 📱 Android Device
-🧪 Termux Latest Version
+🧪 Termux (Latest Version)
 🐍 Python 3.13
-🌐 Stable Internet
+🌐 Stable Internet Connection
+📢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣
+�
+￼ 
+
+�
+👥 Join for latest updates & methods 
+
 📞 𝗖𝗢𝗡𝗧𝗔𝗖𝗧
 �
 ￼ 
@@ -59,5 +66,11 @@ chmod +x Hamzii
 �
 📲 +1 819-272-0340 
 
-🧬 𝗡𝗢𝗧𝗘
-⚠️ This tool is for educational purposes only. Use responsibly.
+🧠 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
+
+✔ All Methods Updated 🔥
+✔ Improved Performance ⚡
+✔ Better Stability 💯
+✔ Bug Fixes 🛠️
+⚠️ 𝗡𝗢𝗧𝗘
+This tool is for educational purposes only. Use responsibly.
