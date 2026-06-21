@@ -8,7 +8,7 @@
 
 📂 TOOL NAME : FILE CLONING TOOL
 
-🔢 VERSION   : 13.8
+🔢 VERSION   : 13.9
 
 📢 STATUS    : UPDATED
 
