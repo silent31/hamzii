@@ -46,7 +46,7 @@ chmod 777 Hamzii
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-PAID-ff0033?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VERSION-13.8-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VERSION-13.9-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.13-22c55e?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/TERMUX-REQUIRED-ef4444?style=for-the-badge&logo=android" />
 </p>
